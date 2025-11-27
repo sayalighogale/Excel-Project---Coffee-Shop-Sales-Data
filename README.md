@@ -37,13 +37,12 @@ It is designed to help understand business performance and support decision-maki
 - Yearly revenue shows consistent growth across 2021–2023.
 
 **Conclusion**
-- This Excel dashboard provides a clear and interactive view of coffee shop performance across multiple cities and years.
-- It helps in:
-- Understanding customer buying behavior
-- Identifying profitable categories
-- Tracking revenue and profit trends
-- Making data-driven business decisions
 
+This Excel dashboard provides a clear and interactive view of coffee shop performance across multiple cities and years. It helps in:
+-  Understanding customer buying behavior
+-  Identifying profitable categories
+-  Tracking revenue and profit trends
+-  Making data-driven business decisions
 - The project demonstrates strong skills in data analysis, visualization, and Excel dashboard creation.
 
   
